@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/06 09:29:30.000.208,=C:\Users\ASUS X453SA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/11 23:23:39.737,=C:\Users\ASUS X453SA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/11 23:27:09.973,C:\Users\ASUS X453SA\Documents\Embarcadero\Studio\Projects\textScroll1\Unit1.fmx=C:\Users\ASUS X453SA\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/04/11 23:27:09.973,C:\Users\ASUS X453SA\Documents\Embarcadero\Studio\Projects\textScroll1\Unit1.pas=C:\Users\ASUS X453SA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/11 23:27:13.535,C:\Users\ASUS X453SA\Documents\Embarcadero\Studio\Projects\textScroll1\Project1.dproj=C:\Users\ASUS X453SA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
