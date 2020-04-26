@@ -2,4 +2,4 @@
 text scrolling atau marque sederhana menggunakan delphi
 
 
-belum mengunakan threading, masih menggunkan komponen timer
+belum mengunakan threading, masih menggunakan komponen timer
